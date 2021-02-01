@@ -1,0 +1,2 @@
+C:/Users/Owner/source/repos/CubeRotateHw/Vendor/glm/glm/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Owner/source/repos/CubeRotateHw/Vendor/glm/glm/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
